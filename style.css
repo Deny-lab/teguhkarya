@@ -1,0 +1,22 @@
+
+form {
+    text-align: center;
+}
+
+input {
+    margin-left: 400px;
+}
+
+body {
+    background-image: url("bg-login.jpg");
+}
+
+label {
+    color: white;
+}
+
+.best {
+    background-size: cover;
+    width: 100px;
+    height: 100px;
+}
